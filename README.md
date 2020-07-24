@@ -1,6 +1,6 @@
 # SOS-CBN-Team8
 This is the git repo for S.O.S Challenge CBN Team 8 Submission. 
-To run our website from the command line follow these steps:
+To run our website from the command line follow these steps.
 Important: You will need Python3, Node.js, and Angular.js
 ​
  1. Clone the project
